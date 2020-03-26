@@ -1,0 +1,39 @@
+#maincontainer{
+    background-color: bisque;
+    height: 1000px;
+}
+#aboutme, #headerSkills, #headerContact {
+    padding-top:100px;
+}
+#headerSkills, #headerContact {
+    padding-top:50px;
+}
+#myPic {
+padding-left: 20px;
+
+}
+#myForm {
+    padding-left: 150px;
+
+}
+
+#container2{
+    padding-left: 100px;
+    
+}
+
+#idName, #id-email, #message1 {
+    color: blue;
+    border-color: black;
+    border: 20px;
+    background-color: white;
+}
+.labelname{
+     border-color: black;
+    font-size: 16px;
+    color: black;
+}
+
+#tempNote{
+    color:red;
+}
